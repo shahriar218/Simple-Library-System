@@ -1,0 +1,5 @@
+CSE Fundamentals|JJ Thomas|False
+Accounting Fundamentals|Stephen H.|False
+Data Science Introduction|John Ferry|False
+Mathematics Advanced|Austine Hourner|False
+Geography Basics|Luis Houl|False

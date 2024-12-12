@@ -1,0 +1,19 @@
+Library Management System:
+A Python-based Library Management System to manage books, including adding, borrowing, returning, and viewing books. This project demonstrates the use of Object-Oriented Programming (OOP) principles, file handling, and user interaction through a simple console-based menu.
+
+Features:
+Add Books: Add new books to the library with a title and author.
+View Books: Display a list of all books along with their availability status.
+Borrow Books: Mark books as borrowed.
+Return Books: Mark books as returned.
+Save Data: Automatically saves book data to a file (library_data.txt) when the program exits.
+Technologies Used
+Python 3.x
+
+Core concepts:
+Object-Oriented Programming (OOP)
+File Handling
+Console-based User Interaction
+
+
+
